@@ -1,4 +1,4 @@
-[<img src="https://{DOMAIN_OF_YOUR_VERCEL_APP}/api/run-spotify-status" alt="Your alt what" width="500" />](LINK_TO_YOUR_ACCOUNT)
+[<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="Your alt what" width="500" />]
 leetcode刷题记录，主要使用c、c++和rust.
 
 
